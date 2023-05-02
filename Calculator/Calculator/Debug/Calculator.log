@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(6): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Calculator.vcxproj -> C:\Users\victorkhant\source\repos\Calculator\Debug\Calculator.exe
